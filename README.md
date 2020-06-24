@@ -8,7 +8,7 @@ This repository is a working space for a tutorial
 
 Create an issue in the SFU DHIL repository. Make it descriptive and unique enough to distinguish from your peers.
 
-Optionally consult [Github Markdown](https://guides.github.com/features/mastering-markdown/) for formatting help.
+> Optional: consult [Github Markdown](https://guides.github.com/features/mastering-markdown/) for a complete description of the Markdown formatting available, or [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for quick reference.
 
 Make a note of the issue number. You will refer back to the issue by number later.
 
