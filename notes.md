@@ -32,3 +32,5 @@ The desktop tool can be used to clone repositories, create commits and issues, a
 
 * [The upstream repository](https://github.com/sfu-dhil/workshop2)
 * [An origin repository](https://github.com/ubermichael/workshop2)
+* [Text formatting documentation](https://guides.github.com/features/mastering-markdown/)
+* [Text formatting cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
