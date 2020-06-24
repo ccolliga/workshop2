@@ -32,10 +32,22 @@ If you include the phrase 'fixes sfu-dhil/workshop2#12' in your commit message, 
 
 ### Push your changes to GitHub.
 
+This will update your GitHub fork with the changes you have made. In a later step, you will collect the changes that other people have also made to the SFU DHIL repository.
 
+Before you push your commit to GitHub check and double check that you are pushing to the origin remote, not the upstream remote.
 
 ### Create a Pull Request.
 
-You can use GitHub Desktop or the GitHub website to do this. Tag or assign someone to the request if you'd like.
+You can use GitHub Desktop or the GitHub website to do this.
 
-1. Update your fork of the repository.
+a. For GitHub Desktop, use the Create Pull Request option in the Branch menu. This option will open the same browser page as in the next step.
+
+b. To use the GitHub website to create the pull request, use the Pull Request link in your repository page.
+
+Both options above will give you the opportunity to review the pull request. Once you are ready to continue, use the Create Pull Request button. GitHub will try to guess the title and description of your pull request based on the commits you created previous. You can edit the title and description.
+
+### Update your fork of the repository.
+
+Back in GitHub Desktop click the Fetch Origin button. This will update your local copy with any changes in your repository and in the SFU DHIL repository.
+
+It's a very good idea to update your copy before you start working on something. If you haven't incorporated the most recent changes to the SFU DHIL repository you may run into conflicts when creating pull requests.
