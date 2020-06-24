@@ -8,7 +8,7 @@ This repository is a working space for a tutorial
 
 Create an issue in the SFU DHIL repository. Make it descriptive and unique enough to distinguish from your peers.
 
-Optionally consult [Github Markdown](https://guides.github.com/features/mastering-markdown/) for formatting help.
+> Optional: consult [Github Markdown](https://guides.github.com/features/mastering-markdown/) for a complete description of the Markdown formatting available, or [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for quick reference.
 
 Make a note of the issue number. You will refer back to the issue by number later.
 
@@ -40,9 +40,9 @@ Before you push your commit to GitHub check and double check that you are pushin
 
 You can use GitHub Desktop or the GitHub website to do this.
 
-a. For GitHub Desktop, use the Create Pull Request option in the Branch menu. This option will open the same browser page as in the next step.
+* For GitHub Desktop, use the Create Pull Request option in the Branch menu. This option will open the same browser page as in the next step. Or
 
-b. To use the GitHub website to create the pull request, use the Pull Request link in your repository page.
+* To use the GitHub website to create the pull request, use the Pull Request link in your repository page.
 
 Both options above will give you the opportunity to review the pull request. Once you are ready to continue, use the Create Pull Request button. GitHub will try to guess the title and description of your pull request based on the commits you created previous. You can edit the title and description.
 
